@@ -31,14 +31,14 @@
   "sku-selector": {
     "props": {
       "initialSelection": "empty",
-      "showVariationsErrorMessage": true
+      "showVariationsErrorMessage": true,
+      "showValueForVariation": "image"
     }
   },
   "product-price": {
     "props": {
       "showSavings": true,
-      "showListPrice": true,
-      "visibleVariations": ["image"]
+      "showListPrice": true
     }
   },
   "stack-layout#brand": {
