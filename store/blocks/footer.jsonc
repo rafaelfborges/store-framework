@@ -31,9 +31,9 @@
   "social-networks": {
     "props": {
       "socialNetworks": [
-        { "url": "https://facebook.com/vtex", "name": "Facebook" },
-        { "url": "https://instagram.com/vtex", "name": "Instagram" },
-        { "url": "https://twitter.com/vtex", "name": "Twitter" }
+        { "url": "https://facebook.com/foo", "name": "Facebook" },
+        { "url": "https://instagram.com/foo", "name": "Instagram" },
+        { "url": "https://twitter.com/foo", "name": "Twitter" }
       ],
       "showInColor": true
     }
