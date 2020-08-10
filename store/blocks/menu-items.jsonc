@@ -7,7 +7,7 @@
         "text": "Major Aplliances"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu#major-appliances"]
+    "blocks": ["vtex.menu@2.x:submenu#major"]
   },
   "menu-item#small-appliances": {
     "props": {
@@ -18,7 +18,7 @@
         "text": "Small Appliances"
       }
     },
-    "blocks": ["vtex.menu@2.x:submenu#small-appliances"]
+    "blocks": ["vtex.menu@2.x:submenu#small"]
   },
   "menu-item#electronics": {
     "props": {
